@@ -5,6 +5,7 @@
 
 	<modules>
 		<module>discovery-service</module>
+		<module>product-serv</module>
 	</modules>
 
 	<parent>
